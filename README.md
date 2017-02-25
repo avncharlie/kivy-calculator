@@ -1,2 +1,3 @@
-# kivy-calculator
-Calculator make using python3 and kivy
+# Calculator program for [Kivy](https://kivy.org)
+Calculator app made using Kivy.
+
