@@ -9,3 +9,6 @@ Problems:
  - Has a set resolution. This will be fixed, and should also fix the problem above.
  - The textinput is disabled, so operations can only be inputted through clicking on tiles. It is possible to only allow certain inputs in a textinput, so this is something that can be fixed as well.
  - Only supports basic operations. A future feature might be resizing to a scientific calculator, like the inbuilt Mac calculator.
+
+![demo gif](https://github.com/avncharlie/kivy-calculator/raw/master/demo.gif)
+![error popup](https://github.com/avncharlie/kivy-calculator/raw/master/error%20demo.png)
