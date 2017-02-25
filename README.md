@@ -11,4 +11,3 @@ Problems:
  - Only supports basic operations. A future feature might be resizing to a scientific calculator, like the inbuilt Mac calculator.
 
 ![demo gif](https://github.com/avncharlie/kivy-calculator/raw/master/demo.gif)
-![error popup](https://github.com/avncharlie/kivy-calculator/raw/master/error%20demo.png)
