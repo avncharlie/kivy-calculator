@@ -23,8 +23,8 @@ class CalculatorWidget(GridLayout):
     button_height = NumericProperty(int_button_height)
     button_font_size = NumericProperty(int_button_font_size)
 
-    Window.size = (int_button_width * 4, 
-        int_button_height * 6)
+    Window.size = (int_button_width * 2, 
+        int_button_height * 3)
 
     def calc_error(self, error, calc_entry):
         content = BoxLayout(orientation='vertical')
